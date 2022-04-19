@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730887511883",
+    "project_id": "admission-quiz-7a5b7",
+    "storage_bucket": "admission-quiz-7a5b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730887511883:android:b2179ed4748fc9769952ce",
+        "android_client_info": {
+          "package_name": "com.example.googleone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730887511883-3dclvp6sfmmg7qlc2mps0gous2gqs1cq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googleone",
+            "certificate_hash": "f9fe545f7369d80525e909f81b3a8d79af80b835"
+          }
+        },
+        {
+          "client_id": "730887511883-diraaliodhi6djjh8v02oajd5g9pjsn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU4ouLv6L_-qH3D9W-zFltISspIA6hvUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730887511883-diraaliodhi6djjh8v02oajd5g9pjsn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
